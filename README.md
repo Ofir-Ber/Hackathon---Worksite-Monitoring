@@ -1,4 +1,7 @@
-# Hackathon---Worksite-Monitoring
+# Hackathon-Worksite Safety Monitoring
+
+Ensuring a worksite safety thanks to computer vision technology
+
 
 The client, a player in the construction industry is building a worksite monitoring solution to evaluate and mitigate risks on worksites
 
